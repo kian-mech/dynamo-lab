@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Sphinx build output
+build/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings (optional)
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
